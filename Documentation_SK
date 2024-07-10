@@ -1,0 +1,9 @@
+#MNE for EEG 101 using VSCode
+
+#1 Installing MNE
+Opened VSCode and used pip command to download it. Which was successful. 
+PS E:\Academics\MajorThesis\Methodology\Currently using\07062024\ExperimentFiles>  pip install  mne 
+..... 
+[notice] A new release of pip is available: 24.0 -> 24.1.2        
+[notice] To update, run: C:\Users\junge\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
+
