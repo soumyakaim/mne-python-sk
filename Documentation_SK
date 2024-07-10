@@ -7,3 +7,7 @@ PS E:\Academics\MajorThesis\Methodology\Currently using\07062024\ExperimentFiles
 [notice] A new release of pip is available: 24.0 -> 24.1.2        
 [notice] To update, run: C:\Users\junge\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
 
+Updated it $ pip install --upgrade mne 
+
+#2 Actually using it 
+So, I have raw files from BrainVisionRecorder. 
